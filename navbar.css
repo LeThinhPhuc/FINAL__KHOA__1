@@ -111,7 +111,7 @@ html{
         display: none;
     }
     .dropdown__list{
-        width: 30%;
+/*         width: 30%; */
         margin-top: 1.5rem;
     }
     .dropdown__item{
