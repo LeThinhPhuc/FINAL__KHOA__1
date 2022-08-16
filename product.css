@@ -521,3 +521,9 @@ img{
         padding-top: 0;
     }
 }
+
+@media (max-width:768px){
+      .product-content{
+        margin-top: 0;
+      }
+}
